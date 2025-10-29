@@ -129,13 +129,69 @@ testing type
 
 	1.Functional Testing :ensure the software’s features and behaviors work correctly.
 		Unit Testing:Test individual units or components of code.
+		Integration Testing:Test interactions between integrated modules.
+		System Testing:Validate the entire system as a whole.
+		Sanity Testing:Quick check after small code changes or bug fixes to 	
+			       confirm functionality is working fine
+		Smoke Testing:Initial check before detailed testing
+		Regression Testing:ensure new changes haven’t broken existing flty
+	2.Non-Functional Testing :These ensure quality attributes like performance, 
+				  reliability, and scalability.
+		Performance Testing
+		Load Testing
+		Stress Testing	
+	 	Scalability Testing
+	 	
+testing documentation
+	Testing documentation is the proof and guide of all testing activities — before, 
+	during, and after testing.
+	
+-----------------------------------------------------------------------------------------
+BUG LIFECYCLE
+
+	The Bug Life Cycle / Defect Life Cycle is the journey of a bug from the moment 
+	it is identified until it is closed or deferred.
+	
+	stages:
+		1. New / Opened
+		2. Assigned
+		3. Open
+		4. Fixed / Resolved
+		5. Retest
+		6. Verified
+		7. Closed
+		8. Reopened (Optional)
+		9. Rejected / Not a Bug / Deferred /
+	
+	Important Bug Attributes
+		Bug ID
+		Title / Summary
+		Description
+		Steps to Reproduce
+		Expected Result
+		Actual Result
+		Severity
+		Priority
+		Status
+		Assigned To
+		Reported By
+		Environment
 		
-		
+-BUGZILLA
+	open-source bug/defect tracking tool
+
+-AUTOMATION TESTING
+	process of using software tools to automatically execute pare actual
+	results with expected results, and generate reports without human intervention.
+	
+-Selenium
+	open-source automation tool
+	Selenium cannot test desktop apps or mobile apps — only web-based applications
+	
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 	
 	
-	
-	
-	
+
 	
 	
 	
