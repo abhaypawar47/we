@@ -189,6 +189,19 @@ BUG LIFECYCLE
 	Selenium cannot test desktop apps or mobile apps — only web-based applications
 	
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+xml
+	XML (Extensible Markup Language) is a markup language designed to store and 
+	transport data.It focuses on structure and meaning 
+	
+	<person>
+		<name>Abhay Pawar</name>
+		<age>23</age>
+		<city>Pune</city>
+	</person>
+	
+-------------------------------------------------------------------------------------
+jira
+	
 	
 	
 
