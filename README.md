@@ -202,9 +202,33 @@ xml
 -------------------------------------------------------------------------------------
 jira
 	
+	1.Story → A feature to build.
+	2.Bug → A defect to fix.
+	3.Task → Non-development work (e.g., documentation).
+	4.Epic → A collection of related stories.
+	5.Sub-task → Smaller division of a parent issue.
 	
+-Agile in Jira
+	Jira Agile allows you to manage projects with:
+	· Scrum Boards (for sprint-based teams)
+	· Kanban Boards (for continuous delivery teams)
 	
+-Scrum Board Structure
+	1.Backlog: List of all stories/tasks.
+	2.Active Sprint: Current sprint work in progress.
+	3.Board: Visual display of workflow (To Do → In Progress → Done).
+	4.Burndown Chart: Graph showing sprint progress.
 
+-Kanban Board Structure
+	Kanban focuses on continuous work flow — no time-boxed sprints.
+	Columns like:
+	To Do | In Progress | Code Review | Testing | Done
+	Used in support teams or DevOps where work is continuous.
+
+
+
+
+	
 	
 	
 	
